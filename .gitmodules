@@ -12,7 +12,7 @@
 	url = https://github.com/ardumont/elisp-pack
 [submodule "evilmode-pack"]
 	path = evilmode-pack
-	url = https://github.com/ayoshi/evilmode-pack
+	url = git@github.com:ayoshi/evilmode-pack.git
 [submodule "git-pack"]
 	path = git-pack
 	url = http://github.com/ardumont/git-pack
