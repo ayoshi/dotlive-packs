@@ -1,0 +1,21 @@
+[submodule "clojurescript-pack"]
+	path = clojurescript-pack
+	url = https://github.com/ardumont/clojurescript-pack
+[submodule "dash-at-point-pack"]
+	path = dash-at-point-pack
+	url = git@github.com:ayoshi/dash-at-point-pack.git
+[submodule "solarized-pack"]
+	path = solarized-pack
+	url = git@github.com:ayoshi/solarized-pack.git
+[submodule "elisp-pack"]
+	path = elisp-pack
+	url = https://github.com/ardumont/elisp-pack
+[submodule "evilmode-pack"]
+	path = evilmode-pack
+	url = https://github.com/siancu/evilmode-pack
+[submodule "git-pack"]
+	path = git-pack
+	url = http://github.com/ardumont/git-pack
+[submodule "install-packages-pack"]
+	path = install-packages-pack
+	url = https://github.com/ardumont/install-packages-pack

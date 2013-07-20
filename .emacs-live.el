@@ -1,0 +1,7 @@
+(live-add-packs '(~/.live-packs/install-packages-pack))
+(live-add-packs '(~/.live-packs/evilmode-pack))
+;;(live-add-packs '(~/.live-packs/solarized-pack))
+(live-add-packs '(~/.live-packs/git-pack))
+(live-add-packs '(~/.live-packs/clojurescrit-pack))
+;;(live-add-packs '(~/.live-packs/elisp-pack))
+(live-add-packs '(~/.live-packs/dash-at-point-pack))
