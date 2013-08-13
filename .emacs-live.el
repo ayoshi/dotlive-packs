@@ -8,12 +8,12 @@
 
 (live-add-packs '(~/.live-packs/install-packages-pack))
 (live-add-packs '(~/.live-packs/evilmode-pack))
+(live-add-packs '(~/.live-packs/solarized-pack))
 (live-add-packs '(~/.live-packs/tomorrow-pack))
 (live-add-packs '(~/.live-packs/git-pack))
 (live-add-packs '(~/.live-packs/clojurescrit-pack))
-;;(live-add-packs '(~/.live-packs/elisp-pack))
+(live-add-packs '(~/.live-packs/elisp-pack))
 (live-add-packs '(~/.live-packs/dash-at-point-pack))
 
-;;;
-;; Local customization - don't know where to put them yet
-(set-default-font "PragmataPro-18")
+;; Should be loaded last, have no idea how to make it so
+(live-add-packs '(~/.live-packs/personalization-pack))
