@@ -19,3 +19,6 @@
 [submodule "install-packages-pack"]
 	path = install-packages-pack
 	url = https://github.com/ardumont/install-packages-pack
+[submodule "tomorrow-pack"]
+	path = tomorrow-pack
+	url = https://github.com/tvaughan/tomorrow-pack
