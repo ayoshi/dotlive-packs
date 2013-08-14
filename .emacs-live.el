@@ -16,6 +16,7 @@
                   ~/.live-packs/git-pack
                   ~/.live-packs/clojurescrit-pack
                   ~/.live-packs/elisp-pack
+                  ~/.live-packs/python-pack
                   ~/.live-packs/dash-at-point-pack))
 
 ;; Should be loaded last, have no idea how to make it so
