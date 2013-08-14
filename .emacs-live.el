@@ -6,14 +6,14 @@
                   live/git-pack
                   live/bindings-pack))
 
-(live-add-packs '(~/.live-packs/install-packages-pack))
-(live-add-packs '(~/.live-packs/evilmode-pack))
-(live-add-packs '(~/.live-packs/solarized-pack))
-(live-add-packs '(~/.live-packs/tomorrow-pack))
-(live-add-packs '(~/.live-packs/git-pack))
-(live-add-packs '(~/.live-packs/clojurescrit-pack))
-(live-add-packs '(~/.live-packs/elisp-pack))
-(live-add-packs '(~/.live-packs/dash-at-point-pack))
+(live-add-packs '(~/.live-packs/install-packages-pack
+                  ~/.live-packs/evilmode-pack
+                  ~/.live-packs/solarized-pack
+                  ~/.live-packs/tomorrow-pack
+                  ~/.live-packs/git-pack
+                  ~/.live-packs/clojurescrit-pack
+                  ~/.live-packs/elisp-pack
+                  ~/.live-packs/dash-at-point-pack))
 
 ;; Should be loaded last, have no idea how to make it so
 (live-add-packs '(~/.live-packs/personalization-pack))
