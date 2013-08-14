@@ -6,6 +6,9 @@
                   live/git-pack
                   live/bindings-pack))
 
+;; Stuff to be done before anything else is loaded
+(live-prepend-packs '(~/.live-packs/prepend-pack))
+
 (live-add-packs '(~/.live-packs/install-packages-pack
                   ~/.live-packs/evilmode-pack
                   ~/.live-packs/solarized-pack
@@ -16,4 +19,4 @@
                   ~/.live-packs/dash-at-point-pack))
 
 ;; Should be loaded last, have no idea how to make it so
-(live-add-packs '(~/.live-packs/personalization-pack))
+(live-append-packs '(~/.live-packs/personalization-pack))

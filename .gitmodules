@@ -22,3 +22,6 @@
 [submodule "tomorrow-pack"]
 	path = tomorrow-pack
 	url = https://github.com/tvaughan/tomorrow-pack
+[submodule "python-pack"]
+	path = python-pack
+	url = git@github.com:ayoshi/python-pack
