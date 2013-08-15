@@ -6,3 +6,6 @@
 
 ;; Set up theme
 (color-theme-sanityinc-tomorrow-day)
+
+;; Fix git gutter background
+(set-face-background 'git-gutter:unchanged nil)
