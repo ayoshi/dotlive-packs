@@ -11,8 +11,6 @@
 
 (live-add-packs '(~/.live-packs/install-packages-pack
                   ~/.live-packs/evilmode-pack
-                  ~/.live-packs/solarized-pack
-                  ~/.live-packs/tomorrow-pack
                   ~/.live-packs/git-pack
                   ~/.live-packs/clojurescrit-pack
                   ~/.live-packs/elisp-pack
@@ -20,4 +18,5 @@
                   ~/.live-packs/dash-at-point-pack))
 
 ;; Should be loaded last, have no idea how to make it so
-(live-append-packs '(~/.live-packs/personalization-pack))
+(live-append-packs '( ~/.live-packs/theme-pack
+                     ~/.live-packs/personalization-pack))

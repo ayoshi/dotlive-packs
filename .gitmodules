@@ -25,3 +25,6 @@
 [submodule "python-pack"]
 	path = python-pack
 	url = git@github.com:ayoshi/python-pack
+[submodule "theme-pack"]
+	path = theme-pack
+	url = git@github.com:ayoshi/theme-pack.git
