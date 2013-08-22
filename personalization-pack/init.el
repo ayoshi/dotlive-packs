@@ -5,7 +5,7 @@
 (live-set-default-font "PragmataPro-16")
 
 ;; Set up theme
-(color-theme-sanityinc-tomorrow-day)
+(load-theme 'solarized-light)
 
 ;; Fix git gutter background
 (set-face-background 'git-gutter:unchanged nil)

@@ -15,7 +15,8 @@
                   ~/.live-packs/clojurescrit-pack
                   ~/.live-packs/elisp-pack
                   ~/.live-packs/python-pack
-                  ~/.live-packs/dash-at-point-pack))
+                  ~/.live-packs/dash-at-point-pack
+                  ~/.live-packs/ido-power-pack))
 
 ;; Should be loaded last, have no idea how to make it so
 (live-append-packs '( ~/.live-packs/theme-pack
