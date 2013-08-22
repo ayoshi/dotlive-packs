@@ -28,3 +28,6 @@
 [submodule "theme-pack"]
 	path = theme-pack
 	url = git@github.com:ayoshi/theme-pack.git
+[submodule "ido-power-pack"]
+	path = ido-power-pack
+	url = git@github.com:ayoshi/ido-power-pack.git
