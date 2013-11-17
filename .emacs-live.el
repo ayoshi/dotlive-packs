@@ -16,7 +16,7 @@
                   ~/.live-packs/clojurescrit-pack
                   ~/.live-packs/elisp-pack
                   ~/.live-packs/python-pack
-;;                  ~/.live-packs/dash-at-point-pack
+                  ~/.live-packs/dash-at-point-pack
                   ~/.live-packs/ido-power-pack
                   ~/.live-packs/powertools-pack))
 
