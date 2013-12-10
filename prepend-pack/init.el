@@ -10,4 +10,4 @@
 (setq custom-safe-themes t)
 
 ;; Always start server
-(server-start)
+;; (server-start)
